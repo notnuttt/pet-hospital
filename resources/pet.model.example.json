@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Bueak",
+        "weight": 21.8,
+        "ownerName": "Nut",
+        "petType": "Dog",
+        "symptoms": [
+            "Vomiting",
+            "Itchy Skin"
+        ],
+        "patienOf": {
+            "name": "Pet center",
+            "doctorName": "Nont"
+        }
+    },
+    {
+        "name": "Samao",
+        "weight": 8.9,
+        "ownerName": "Am",
+        "petType": "Cat",
+        "symptoms": [
+            "Hair Loss"
+        ],
+        "patienOf": {
+            "name": "Thonglor pet hospital",
+            "doctorName": "David"
+        }
+    }
+]
